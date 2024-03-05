@@ -1,3 +1,6 @@
+![Screenshot (34)](https://github.com/Mathew-Tomy/React-js-Shopping_site/assets/159645212/c3b8a062-0d8d-417d-bf4f-5c9c5eebbb53)
+![Screenshot (33)](https://github.com/Mathew-Tomy/React-js-Shopping_site/assets/159645212/1aec02c8-8d1a-4897-af4b-63e21a98e3f8)
+![Screenshot (32)](https://github.com/Mathew-Tomy/React-js-Shopping_site/assets/159645212/b6403188-7195-468c-8d42-57128e511620)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
